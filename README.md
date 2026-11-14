@@ -1,19 +1,2 @@
-"# Guessing Game Project"
-""
-"## Project Information"
-""
-"- **Project:** Guessing Game"
-"- **Date and Time:** $(date)"
-"- **Lines of Code:** $(wc -l < guessinggame.sh)"
-""
-"## Description"
-""
-"A Bash program that asks the user to guess the number of files in the current directory."
-""
-"The program provides hints if the guess is too high or too low."
-""
-"## How to Run"
-""
-'`bash' 
-"bash guessinggame.sh" 
-'`'
+# Guessing Game Project
+
